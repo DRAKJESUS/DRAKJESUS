@@ -1,48 +1,36 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Angel+Jesus+Santiago.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
-**DRAKJESUS/DRAKJESUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-Here are some ideas to get you started:
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+### Technologies and tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
-### Languajes and Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="Angel-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Angel-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angel-Node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Angel-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Angel-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Angel-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Angel-AndroidStudio" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Angel-NetBeans" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+  <img align="center" alt="Angel-MariaDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
+  <img align="center" alt="Angel-Navicat" height="35" width="40" src="https://img.icons8.com/ios/50/000000/navicat.png">
+  <img align="center" alt="Angel-Laravel" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Angel-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div><br>
 
-<p align="center">
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/maria-db.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/mysql-logo.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/apache-netbeans"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/android-studio"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/arduino"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/144/php-logo.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/ios/144/maven-ios.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/dusk/144/navicat.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/firefox"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/fluency/144/laravel.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/linux"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/zorin"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=ZbBhBW0N2q3D&format=png&color=000000"/>
-</p>
+### GitHub Stats
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/DRAKJESUS">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DRAKJESUS&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKJESUS&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
+    
+### Contact
 
+<div> 
+  <a href="https://www.linkedin.com/in/tu-enlace-de-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
