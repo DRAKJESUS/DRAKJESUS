@@ -14,8 +14,8 @@
   <img align="center" alt="Angel-AndroidStudio" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Angel-NetBeans" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
   <img align="center" alt="Angel-MariaDB" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
-  <img align="center" alt="Angel-Navicat" height="35" width="40" src="https://img.icons8.com/ios/50/000000/navicat.png">
-  <img align="center" alt="Angel-Laravel" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/docker"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/arduino"/>
   <img align="center" alt="Angel-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
