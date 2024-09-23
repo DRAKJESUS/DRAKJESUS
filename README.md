@@ -35,12 +35,15 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/DRAKJESUS">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DRAKJESUS&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/DRAKJESUS">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKJESUS&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
+
     
 ### Contact
 
