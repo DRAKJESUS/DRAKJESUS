@@ -5,7 +5,6 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-<div style="display: inline_block"><br>
   <img align="center" alt="Angel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angel-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angel-Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -17,6 +16,14 @@
   <img align="center" alt="Angel-MariaDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="Angel-Docker" height="40" width="40" src="https://img.icons8.com/color/144/000000/docker"/>
   <img align="center" alt="Angel-Arduino" height="40" width="40" src="https://img.icons8.com/color/144/000000/arduino"/>
+  <img align="center" alt="Angel-Eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Angel-Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Angel-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Angel-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Angel-Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Angel-Windows" height="40" width="40" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+</div>
+
 </div>
 
 
