@@ -33,16 +33,27 @@
   <img align="center" alt="Angel-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
-### GitHub Stats
+### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/DRAKJESUS">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=DRAKJESUS&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/DRAKJESUS">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKJESUS&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+<p align="center">
+<a href="https://github.com/DRAKJESUS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRAKJESUS&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DRAKJESUS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DRAKJESUS&theme=tokyonight" alt="mystreak"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/DRAKJESUS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRAKJESUS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAKJESUS&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
     
 ### Contact
