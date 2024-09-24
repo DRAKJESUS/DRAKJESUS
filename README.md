@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Angel+Jesus.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/BZwhNfY92HAAAAAd/coding-typing.gif" alt="Coding Animation" align="right" width="200">
+<img src="https://media.tenor.com/BZwhNfY92HAAAAAd/coding-typing.gif" alt="Coding Animation" align="right" width="200"></img>
 
 
 ### Technologies and tools:
