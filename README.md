@@ -2,8 +2,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
-<img src="https://media1.tenor.com/m/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="300" alt="fujiwaradance">
+<img src="https://media1.tenor.com/m/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="300" alt="fujiwaradance"align="right" width="200">
 
 
 
