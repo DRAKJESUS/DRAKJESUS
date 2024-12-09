@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Angel+Jesus.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
 
-
-<img src="https://media1.tenor.com/m/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="300" alt="fujiwaradance"align="right" width="200">
+<img src="https://media1.tenor.com/m/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="300" alt="fujiwaradance" align="right" width="200">
 
 
 
